@@ -3,12 +3,17 @@
 The aim of this data science project is to utilize customer demographic information, service usage patterns, tenure, and various other variables to develop predictive models that can forecast whether a particular customer is likely to churn or not. In the context of this project, "churn" refers to customers discontinuing or terminating their subscriptions to the telecommunications company's services.
 # **Methodology**
 
-Data Collection: Gather historical customer data from the telecom company's database, including demographic information, service usage, subscription details, and churn status.
-Data Preprocessing: Cleanse and preprocess the dataset by handling missing values, encoding categorical variables, and performing feature engineering to extract relevant features.
-Exploratory Data Analysis (EDA): Conduct exploratory data analysis to gain insights into the dataset, visualize key trends and patterns, and identify potential predictors of churn.
-Model Development: Implement various machine learning algorithms such as Decision Tree Classifier, Random Forest Classifier, and K Nearest Neighbors (KNN) Classifier to build predictive models for customer churn.
-Model Evaluation: Evaluate the performance of each model using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score. Utilize techniques like cross-validation and hyperparameter tuning to optimize model performance.
-Deployment and Integration: Deploy the best-performing model into the telecom company's operational environment, integrating it with existing systems for real-time churn prediction and decision-making.
+-Data Collection: Gather historical customer data from the telecom company's database, including demographic information, service usage, subscription details, and churn status.
+
+-Data Preprocessing: Cleanse and preprocess the dataset by handling missing values, encoding categorical variables, and performing feature engineering to extract relevant features.
+
+-Exploratory Data Analysis (EDA): Conduct exploratory data analysis to gain insights into the dataset, visualize key trends and patterns, and identify potential predictors of churn.
+
+-Model Development: Implement various machine learning algorithms such as Decision Tree Classifier, Random Forest Classifier, and K Nearest Neighbors (KNN) Classifier to build predictive models for customer churn.
+
+-Model Evaluation: Evaluate the performance of each model using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score. Utilize techniques like cross-validation and hyperparameter tuning to optimize model performance.
+
+-Deployment and Integration: Deploy the best-performing model into the telecom company's operational environment, integrating it with existing systems for real-time churn prediction and decision-making.
 
 ## Data Dictionary
 
