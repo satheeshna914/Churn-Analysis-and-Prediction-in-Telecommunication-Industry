@@ -41,10 +41,15 @@ Deployment and Integration: Deploy the best-performing model into the telecom co
 The exploratory data analysis conducted in this project has provided valuable insights into the factors influencing customer churn in the telecommunications industry. Several key findings have emerged:
 1) Senior citizens exhibit a lower churn rate compared to younger customers.
 2) Customers who are single or do not have dependents tend to have a higher churn rate.
+   
 3)Customers generally express higher satisfaction with streaming services compared to services like online backup and device protection, resulting in a lower churn rate for streaming services.
+
 4)Tenure has an inverse relationship with churn rate, with customers having a tenure shorter than 5 months having a higher churn rate.
+
 5)Customers with month-to-month contracts are more likely to churn compared to those with one or two-year contracts, indicating that longer contract durations are associated with lower churn.
+
 6)Customers with higher monthly charges and lower total charges are more likely to churn, suggesting that the company should consider reducing monthly charges to mitigate churn.
+
 7)The most important features for predicting customer churn, as determined by feature importance, include tenure, contract type, monthly charges, and total charges.
 
 In conclusion, by leveraging insights from exploratory data analysis and predictive modeling, the telecom company can implement targeted retention strategies to reduce churn rates, enhance customer satisfaction, and improve overall business performance. Continued monitoring and refinement of these strategies based on data-driven insights will be essential for maintaining customer loyalty and competitiveness in the market.
